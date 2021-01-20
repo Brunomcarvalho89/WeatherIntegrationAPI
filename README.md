@@ -1,6 +1,8 @@
 # WeatherIntegrationAPI
 
-Api para monitoramento de temperatura de cidades cadastradas.
+- Aplicação de coleta de temperaturas climáticas para cidades cadastradas.
+
+- API para cadastro das cidades e consulta de temperaturas registradas.
 
 Aplicação com 100 porcento de cobertura de testes.
 
