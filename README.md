@@ -4,7 +4,7 @@
 
 - API para cadastro das cidades e consulta de temperaturas registradas.
 
-Aplicação com 100 porcento de cobertura de testes.
+Aplicação com quase 100% de cobertura de testes.
 
 Utilizando:
 
